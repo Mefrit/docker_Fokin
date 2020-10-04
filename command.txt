@@ -1,0 +1,2 @@
+export GIT_SSL_NO_VERIFY=1
+что бы git скачался ввести в терминале
